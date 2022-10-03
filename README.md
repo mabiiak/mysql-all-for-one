@@ -124,11 +124,13 @@
     ✅ 3 - Escreva uma query que exiba os valores da coluna que representa a primary key da tabela `products`.
 
     ✅ 4 - Conte quantos registros existem na coluna `product_name` da tabela `products`.
+    
     ✅ 5 - Monte uma query que exiba os dados da tabela `products` a partir do quarto registro até o décimo terceiro.
 
     ✅ 6 - Exiba os dados das colunas `product_name` e `id` da tabela `products` de maneira que os resultados estejam em ordem alfabética dos nomes.
 
     ✅ 7 - Mostre apenas os ids dos 5 últimos registros da tabela `products` (a ordernação deve ser baseada na coluna `id`).
+    
     ✅ 8 - Faça uma consulta que retorne três colunas, respectivamente, com os nomes 'A', 'Trybe' e 'eh', e com valores referentes a soma de '5 + 6', a string 'de', a soma de '2 + 8'. 
 
 ### Desafios sobre filtragem de dados
